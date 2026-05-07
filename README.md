@@ -30,18 +30,12 @@ El proyecto no requiere dependencias, servidores complejos ni configuraciones. P
 5. ¡Listo! Puedes empezar a gestionar tus libros inmediatamente.
 
 ## 📸 Evidencias (Capturas del sistema funcionando)
-> **Nota para el estudiante:** Sustituye estas referencias con tus imágenes reales antes de entregar. Sube las imágenes a una carpeta `assets` en este repositorio.
-
-![Vista Principal](https://via.placeholder.com/800x400.png?text=Captura+de+Pantalla+Principal)
-*Figura 1: Interfaz principal con lista de libros.*
-
-![Editando Registro](https://via.placeholder.com/800x400.png?text=Captura+Editando+Registro)
-*Figura 2: Formulario editando un registro.*
+> **Nota:** Se adjunto un pdf con capturas de todo el sistema funcionando.
 
 ## 🤖 Uso de Inteligencia Artificial
 **¿Se usó IA en este proyecto?** Sí.
 **¿Para qué?** 
-Se utilizó la Inteligencia Artificial (Antigravity Code Assistant) como herramienta de soporte para agilizar el desarrollo de:
+Se utilizó la Inteligencia Artificial como herramienta para agilizar el desarrollo.
 - **Estructura y Lógica:** Base funcional del CRUD y manipulación del estado en LocalStorage asegurando código limpio y principios SOLID en funciones de JavaScript.
 - **Diseño UI/UX:** Generación del diseño estético mediante CSS puro, implementación de Glassmorphism, y selección de paleta de colores para un acabado premium.
 - **Documentación:** Estructuración de este README.md cumpliendo con los lineamientos de la rúbrica de evaluación.
