@@ -36,6 +36,4 @@ El proyecto no requiere dependencias, servidores complejos ni configuraciones. P
 **¿Se usó IA en este proyecto?** Sí.
 **¿Para qué?** 
 Se utilizó la Inteligencia Artificial como herramienta para agilizar el desarrollo.
-- **Estructura y Lógica:** Base funcional del CRUD y manipulación del estado en LocalStorage asegurando código limpio y principios SOLID en funciones de JavaScript.
-- **Diseño UI/UX:** Generación del diseño estético mediante CSS puro, implementación de Glassmorphism, y selección de paleta de colores para un acabado premium.
-- **Documentación:** Estructuración de este README.md cumpliendo con los lineamientos de la rúbrica de evaluación.
+- **Estructura y Lógica:** Base funcional del CRUD y manipulación del estado en LocalStorage asegurando código limpio.
