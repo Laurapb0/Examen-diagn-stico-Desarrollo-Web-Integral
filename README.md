@@ -30,7 +30,7 @@ El proyecto no requiere dependencias, servidores complejos ni configuraciones. P
 5. ¡Listo! Puedes empezar a gestionar tus libros inmediatamente.
 
 ## 📸 Evidencias (Capturas del sistema funcionando)
-> **Nota:** Se adjunto un pdf con capturas de todo el sistema funcionando.
+> **Nota:** Se adjunto un pdf con capturas de todo el sistema funcionando en el classroom en la asignación de la tarea.
 
 ## 🤖 Uso de Inteligencia Artificial
 **¿Se usó IA en este proyecto?** Sí.
